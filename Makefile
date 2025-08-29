@@ -2,7 +2,7 @@ NAME = fractol
 
 CC = cc 
 CFLAGS = -Wall -Werror -Wextra 
-LDFLAGS = -L/usr/include/minilibx-linux/ -lmlx -lX11 -lXext
+LDFLAGS = -Lminilibx-linux/ -lmlx -lX11 -lXext
 
 SRC = SRC/libft/ft_atoi.c \
 	  SRC/libft/ft_strlen.c \

@@ -6,14 +6,14 @@
 /*   By: mel-houa <mel-houa@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/17 22:56:20 by mel-houa          #+#    #+#             */
-/*   Updated: 2025/05/02 23:17:48 by mel-houa         ###   ########.fr       */
+/*   Updated: 2025/05/16 17:24:04 by mel-houa         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FRACTOL_H
 # define FRACTOL_H
 
-# include "/usr/include/minilibx-linux/mlx.h"
+# include "../minilibx-linux/mlx.h"
 # include <stdio.h>
 # include <stdlib.h>
 # include <unistd.h>
